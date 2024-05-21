@@ -1,0 +1,10 @@
+#/bin/bash
+sudg apt update -y
+sudg aptinstall apache2 y
+sudo apt install unzip-y
+sudo wget https://www.free-css.com/assets/files/free-css-
+temolates/dowload/page296/oxer.zip
+sudg un-ip ewerzip
+sudo myoxer-html/*/var/www/html
+sudO sestemal restart apache2
+sude Eamst enable apache2
