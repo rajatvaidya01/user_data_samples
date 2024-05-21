@@ -1,0 +1,7 @@
+#/bin/bash
+sudg apt update -y
+sudg apt install apache2 y
+sudo apt install git -y
+sudo git clone  https://github.com/rajatvaidya01/demo.git /var/www/html/
+sudo  systemctl restart apache2
+sude systemctl enable apache2
